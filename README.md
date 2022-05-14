@@ -1,6 +1,6 @@
 ![bash-glitch3](https://user-images.githubusercontent.com/72181445/168415553-f7331a58-ae24-4fd5-a2a2-b4400ec5f04d.png)
 
-# Hello! Im a Penetration tester and software engineer<img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=40 heigth=40></img>from Finland, i specialize in web penetration testing...
+# Hello! Im a Penetration tester and software developer<img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=40 heigth=40></img>from Finland, i specialize in web penetration testing...
 
 <b>My main language is Python <img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=20 heigth=20></img>
 but i can also code C++
