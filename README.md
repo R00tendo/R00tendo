@@ -1,4 +1,4 @@
-![bash-glitch3](https://user-images.githubusercontent.com/72181445/168415553-f7331a58-ae24-4fd5-a2a2-b4400ec5f04d.png)
+<img src="https://user-images.githubusercontent.com/72181445/168415553-f7331a58-ae24-4fd5-a2a2-b4400ec5f04d.png" width=500 height=500></img>
 
 # Hello! Im a Penetration tester and software developer<img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=40 heigth=40></img>from Finland, i specialize in web penetration testing...
 
@@ -22,6 +22,8 @@ if __name__ == "__main__":
 <br></br>
 ### I STAND WITH UKRAINE <img src="https://user-images.githubusercontent.com/72181445/168415366-e7c083e2-7106-4a2c-8f29-ea606c89806c.png" width=100 heigth=100></img>
 <br></br>
+<br></br>
+### Socials: <a href="https://medium.com/@R00tendo">Medium</a>
 <br></br>
 ### My list of best cyber weapons 👨‍💻:
 * <b>Jaeles</b><br></br>
