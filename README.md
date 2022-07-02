@@ -58,3 +58,5 @@ if __name__ == "__main__":
   <br></br>
   <img src="https://user-images.githubusercontent.com/72181445/168416882-bb1b1c58-31df-4b8e-838b-69860d1b57d1.png" width=50 heigth=50></img>
   * Quicker port scanner than nmap but doesn't have the scripts tho
+
+Donate Monero: 48ZrWwcf1gpG9VCe7agYru36SJhKwDDyGCgGw4TvkAG92Exd9pN7GBvL23SkwrMMbgdFa7BnFX2k6cD49SzV7pv42B4JDQE
