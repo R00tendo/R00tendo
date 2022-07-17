@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/72181445/168415553-f7331a58-ae24-4fd5-a2a2-b4400ec5f04d.png" width=500 height=500></img>
 
-# Hello! Im a Penetration tester and software developer<img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=40 heigth=40></img>from Finland, i specialize in web penetration testing...
+# Hello! Im a Penetration tester and software developer<img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=40 heigth=40></img> from Finland, i specialize in web penetration testing...
 
 <b>My main language is Python <img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=20 heigth=20></img>
 but i can also code C++
@@ -9,7 +9,7 @@ Ruby<img src="https://user-images.githubusercontent.com/72181445/168415063-3e175
 Javascript<img src="https://user-images.githubusercontent.com/72181445/168415152-086d1228-867d-43a8-b7d4-92d9ed977874.png" width=50 heigth=50></img>
 </b>
 
-<b>Automation created modern day so lets do it again in technology!</b>
+<b>Automation created modern world so lets do it again in technology!</b>
 
 ```python
 def main():
@@ -25,7 +25,7 @@ if __name__ == "__main__":
 <br></br>
 ### Socials: <a href="https://medium.com/@R00tendo">Medium</a>
 <br></br>
-### My list of best cyber weapons 👨‍💻:
+### My list of best tools 👨‍💻:
 * <b>Jaeles</b><br></br>
   <img src="https://user-images.githubusercontent.com/72181445/168416519-2867286c-bcfd-4a63-b16e-b9d98adfe466.png" width=50 heigth=50></img>
   * Automated Web Penetration testing
@@ -58,5 +58,13 @@ if __name__ == "__main__":
   <br></br>
   <img src="https://user-images.githubusercontent.com/72181445/168416882-bb1b1c58-31df-4b8e-838b-69860d1b57d1.png" width=50 heigth=50></img>
   * Quicker port scanner than nmap but doesn't have the scripts tho
-
-Donate Monero: 48ZrWwcf1gpG9VCe7agYru36SJhKwDDyGCgGw4TvkAG92Exd9pN7GBvL23SkwrMMbgdFa7BnFX2k6cD49SzV7pv42B4JDQE
+* <b>Truffelhog</b>
+  <br></br>
+  <img src="https://camo.githubusercontent.com/5661f8ac591a9f60fb0faeb9f70dacd0b915e6ab0e2049a68159be1dea3b1382/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74727566666c65686f672d7374617469632d736f75726365732f706978656c5f7069672e706e67" width=50 heigth=50></img>
+  * Finds leaked credentials and api tokens etc...
+* <b>Blackbird</b>
+  <br></br>
+  <img src="https://raw.githubusercontent.com/p1ngul1n0/badges/main/badges/20.png" width=50 heigth=50></img>
+  * Social media OSINT (similiar to sherlock)
+ 
+## Donate Monero: 48ZrWwcf1gpG9VCe7agYru36SJhKwDDyGCgGw4TvkAG92Exd9pN7GBvL23SkwrMMbgdFa7BnFX2k6cD49SzV7pv42B4JDQE
