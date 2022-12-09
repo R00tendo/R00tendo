@@ -41,7 +41,7 @@ but i can also code
 * <b><a href="https://github.com/guelfoweb/knock">knock</a></b>
 * <b><a href="https://github.com/sensepost/gowitness">gowitness</a></b>
 
-### Favorite color: violet,purple,cyan,green
-
+### Favorite colors: violet,purple,cyan,green
+### Favorite OS: Parrot security
 ### Donate Monero: 48ZrWwcf1gpG9VCe7agYru36SJhKwDDyGCgGw4TvkAG92Exd9pN7GBvL23SkwrMMbgdFa7BnFX2k6cD49SzV7pv42B4JDQE
 
