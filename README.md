@@ -13,18 +13,20 @@ but i can also code
 
 ## Cyber security experience
 ### I started working with computer in 2018
-### ✅Things i feel comfortable with✅:
+### ✅Things I feel comfortable with✅:
 * Linux
 * Python, javascript
 * All types of networking that a normal Finnish person can get (so not including some high tech ISP networking gear)
 * OSINT (both on people and companies)
 * Mobile penetration testing
 * Almost any web app
-### 🟨Things i can probably do fairly good🟨:
-* Active Directory (work in progress)
+### 🟨Things I can probably do fairly good🟨:
+
+* Active Directory/Windows in general (work in progress) <img src="https://user-images.githubusercontent.com/72181445/208234885-08f3a1b5-4db3-4df1-8e2b-4afd2da65988.gif" width=100 heigth=100></img>
 * IOT
 * reverse engineering 
 * Forensics
+
 
 ## Social things🌐🗣
 ### Social medias:<a href="https://medium.com/@R00tendo">Medium</a>
