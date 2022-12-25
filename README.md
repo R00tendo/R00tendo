@@ -21,7 +21,6 @@ but i can also code
 * Mobile penetration testing
 * Almost any web app
 ### 🟨Things I can probably do fairly good🟨:
-
 * Active Directory/Windows in general (work in progress) <img src="https://user-images.githubusercontent.com/72181445/208234885-08f3a1b5-4db3-4df1-8e2b-4afd2da65988.gif" width=100 heigth=100></img>
 * IOT
 * reverse engineering 
@@ -32,6 +31,8 @@ but i can also code
 ### Social medias:<a href="https://medium.com/@R00tendo">Medium</a>
 
 ### Contact:R00tendo@protonmail.com
+
+### Discord server (There's no one so it would be nice to get some members D:) https://discord.gg/b4wcTuaP
 
 ## Random stuff
 
