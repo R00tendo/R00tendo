@@ -30,7 +30,9 @@ but i can also code
 ## Social things🌐🗣
 ### Social medias:<a href="https://medium.com/@R00tendo">Medium</a>
 
-### Contact:R00tendo@protonmail.com
+### Email:R00tendo@protonmail.com
+
+### Discord:R00tendo#8163
 
 ### Discord server (There's no one so it would be nice to get some members D:) https://discord.gg/b4wcTuaP
 
