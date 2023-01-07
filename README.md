@@ -32,10 +32,6 @@ but i can also code
 
 ### Email:R00tendo@protonmail.com
 
-### Discord:R00tendo#8163
-
-### Discord server (There's no one so it would be nice to get some members D:) https://discord.gg/b4wcTuaP
-
 ## Random stuff
 
 ### My list of best tools 👨‍💻🔧:
