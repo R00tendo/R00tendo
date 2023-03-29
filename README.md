@@ -17,7 +17,7 @@ but i can also code
 ### I started learning about coding and cyber sec overall in 2018
 ### Things I'm experienced with:
 * Linux
-* Database managament (SQL,Elasticsearch)
+* Database management (SQL,Elasticsearch)
 * Python, Javascript, Golang
 * Almost any types of networking and networking gear that an ordinary Finnish person can get his hands on (so not including some high tech ISP networking gear)
 * OSINT (both on people and companies)
