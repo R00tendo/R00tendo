@@ -14,12 +14,12 @@ but i can also code
 (I started coding with batch but i'm so rusty at it nowdays that i won't count it here :)
 
 ## Cyber security experience
-### I started learning about coding and cyber sec overall in 2018
+### I started learning about coding and cyber security in general in 2018.
 ### Things I'm experienced with:
 * Linux
 * Database management (SQL,Elasticsearch)
 * Python, Javascript, Golang
-* Almost any types of networking and networking gear that an ordinary Finnish person can get his hands on (so not including some high tech ISP networking gear)
+* Almost any types of networking and networking gear an ordinary Finnish person can get his hands on (so not including some high tech ISP networking gear)
 * OSINT (both on people and companies)
 * Web app pen testing
 * WIFI pen testing
