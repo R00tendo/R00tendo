@@ -3,14 +3,22 @@
 
 ## My coding background
 <b>My main language is  <img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=25 heigth=25></img>
-but i can also code 
+but I can also code 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width=40 heigth=40></img>, 
 <img src="https://user-images.githubusercontent.com/72181445/168415152-086d1228-867d-43a8-b7d4-92d9ed977874.png" width=50 heigth=50></img>,
 <img src="https://user-images.githubusercontent.com/72181445/219151897-f5f1af72-2ee4-4fb6-b79b-ebdf3f8f3794.png" width=50 heigth=50></img>.
-
 </b>
 
-(I started coding with batch but i'm so rusty at it nowdays that i won't count it here :)
+### My experience with each language:
+Python:2018-now (ON and OFF)
+
+Java:2022-2023
+
+Javascript:2021-now (Mostly android focused)
+
+Golang:2022-now (ON and OFF)
+
+(I started coding with batch but I'm so rusty at it nowdays that I won't count it here :)
 
 ## Cyber security experience
 ### I started learning about coding and cyber security in general in 2018.
@@ -45,5 +53,5 @@ but i can also code
 * <b><a href="https://github.com/guelfoweb/knock">knock</a></b>
 * <b><a href="https://github.com/sensepost/gowitness">gowitness</a></b>
 
-### Donate Monero: 48ZrWwcf1gpG9VCe7agYru36SJhKwDDyGCgGw4TvkAG92Exd9pN7GBvL23SkwrMMbgdFa7BnFX2k6cD49SzV7pv42B4JDQE
+### Feel free donate Monero: 48ZrWwcf1gpG9VCe7agYru36SJhKwDDyGCgGw4TvkAG92Exd9pN7GBvL23SkwrMMbgdFa7BnFX2k6cD49SzV7pv42B4JDQE
 
