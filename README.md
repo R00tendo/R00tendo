@@ -1,7 +1,7 @@
 <img src="https://github.com/R00tendo/R00tendo/blob/main/banner_thingy_compressed.gif"></img>
 # Hello! I'm a Cyber Security enthusiast and software developer from Finland🇫🇮.
 
-## My coding background
+## Coding background
 <b>My main language is  <img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=25 heigth=25></img>
 but I can also code 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width=40 heigth=40></img>, 
