@@ -33,7 +33,7 @@ Golang:2022-now (ON and OFF)
 * Mobile pen testing
 
 ### Things I can do up to a point:
-* Active Directory/Windows in general (work in progress) <img src="https://user-images.githubusercontent.com/72181445/208234885-08f3a1b5-4db3-4df1-8e2b-4afd2da65988.gif" width=100 heigth=100></img>
+* Active Directory/Windows in general <img src="https://user-images.githubusercontent.com/72181445/208234885-08f3a1b5-4db3-4df1-8e2b-4afd2da65988.gif" width=100 heigth=100></img>
 * IOT pen testing
 * reverse engineering (x86-64 elf/exe bin)
 * Forensics
