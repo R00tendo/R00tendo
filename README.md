@@ -1,5 +1,5 @@
 <img src="https://github.com/R00tendo/R00tendo/blob/main/banner_thingy_compressed.gif"></img>
-# Hello! I'm a Cyber Security enthusiast and software developer from Finland🇫🇮.
+# Hello! I'm a Cyber Security enthusiast and software developer from Finland 🇫🇮.
 
 ## Coding background
 <b>My main language is  <img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=25 heigth=25></img>
@@ -45,13 +45,7 @@ Golang:2022-now (ON and OFF)
 
 ## Other things
 
-### My list of best tools 🔧:
-* <b><a href="https://www.zaproxy.org/">Owasp ZAP</a></b>
-* <b><a href="https://github.com/C-Sto/recursebuster">Recursebuster</a></b>
-* <b><a href="https://github.com/screetsec/Sudomy">Sudomy</a></b>
-* <b><a href="https://github.com/tomnomnom/fff">fff</a></b>
-* <b><a href="https://github.com/guelfoweb/knock">knock</a></b>
-* <b><a href="https://github.com/sensepost/gowitness">gowitness</a></b>
+### Don't ask me for skid shit like DDOS'ing, Swatting or Doxing since I don't do that kind of "hacking".
 
 ### Feel free donate Monero: 48ZrWwcf1gpG9VCe7agYru36SJhKwDDyGCgGw4TvkAG92Exd9pN7GBvL23SkwrMMbgdFa7BnFX2k6cD49SzV7pv42B4JDQE
 
