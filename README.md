@@ -2,11 +2,9 @@
 # Hello! I'm a Cyber Security enthusiast and software developer from Finland 🇫🇮.
 
 ## Coding background
-<b>My main language is  <img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=25 heigth=25></img>
-but I can also code 
+<b>My main languages are  <img src="https://user-images.githubusercontent.com/72181445/168414885-2422d692-d685-4fbe-867e-b960e2810b20.png" width=25 heigth=25></img>, <img src="https://user-images.githubusercontent.com/72181445/219151897-f5f1af72-2ee4-4fb6-b79b-ebdf3f8f3794.png" width=50 heigth=50></img>, but I can also code 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width=40 heigth=40></img>, 
-<img src="https://user-images.githubusercontent.com/72181445/168415152-086d1228-867d-43a8-b7d4-92d9ed977874.png" width=50 heigth=50></img>,
-<img src="https://user-images.githubusercontent.com/72181445/219151897-f5f1af72-2ee4-4fb6-b79b-ebdf3f8f3794.png" width=50 heigth=50></img>.
+<img src="https://user-images.githubusercontent.com/72181445/168415152-086d1228-867d-43a8-b7d4-92d9ed977874.png" width=50 heigth=50></img>.
 </b>
 
 ### My experience with each language:
@@ -25,18 +23,18 @@ Golang:2022-now (ON and OFF)
 ### Things I'm experienced with:
 * Linux
 * Database management (SQL,Elasticsearch)
-* Python, Javascript, Golang
+* Python, Golang
 * Almost any types of networking and networking gear an ordinary Finnish person can get his hands on (so not including some high tech ISP networking gear)
 * OSINT (both on people and companies)
 * Web app pen testing
 * WIFI pen testing
 * Mobile pen testing
+* Forensics
 
 ### Things I can do up to a point:
 * Active Directory/Windows in general <img src="https://user-images.githubusercontent.com/72181445/208234885-08f3a1b5-4db3-4df1-8e2b-4afd2da65988.gif" width=100 heigth=100></img>
 * IOT pen testing
 * reverse engineering (x86-64 elf/exe bin)
-* Forensics (Learning currently)
 
 ## Social media/contact stuff🌐
 ### Social medias:<a href="https://medium.com/@R00tendo">Medium</a>
