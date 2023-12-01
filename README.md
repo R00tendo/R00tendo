@@ -13,52 +13,57 @@ My journey started in 2018 when I saw a low quality Indian video about switching
 After seeing the video, I started searching up online if this was really possible and if so, why this was even a feature. This took me to the Windows CMD which I of course didn't know how to operate, but determined to understand how remote shutdown worked, I started learning CMD commands and batch scripting. After some time I got bored of the limited batch language and started experimenting with different languages and found Python... easy, effective and has a lot of resources. What more could an aspiring software developer want! Time flows, I make a Python project after another. Then I don't know why, but I got interested in WIFI hacking.<br> The concept of being able to just hijack/create/bring down a hotspot at your will scratched just the right part of my brain and I got hooked. I researched this mythical "WIFI hacking" and how to do the attacks in practice but sadly (well looking at today's perspective, thankfully) every article/video required a Linux OS, so I decided to install Linux on my old laptop and began. This didn't get me too far though, because I had to know how Linux and the commands worked before doing a single attack. Ensue a month of studying Linux commands like the bible and finally, I knew Linux on at least some level. Messing around with the WIFI stuff got me hooked on the feeling of you successfully exploiting something. This gave me further motivation to learn other offensive cyber security-related stuff and the rest is history.
 
 ## Experience
-<img src="https://github.com/R00tendo/R00tendo/assets/72181445/e7ccdcda-5177-4bf3-86e7-fde184944b70" width=550 height=400></img>
 
-<b>Rating system:</b><br>
-Advanced = <img src="https://github.com/R00tendo/R00tendo/assets/72181445/8017341b-105d-44a9-ada3-291e017a48da" width=45 height=45></img><br>
-Intermediate = <img src="https://github.com/R00tendo/R00tendo/assets/72181445/680532bb-beab-41f9-8aac-3aef7beb0c3c" width=30 height=30></img><br>
-Beginner = <img src="https://github.com/R00tendo/R00tendo/assets/72181445/664d37c9-0208-4925-ae1e-f28cfc0e27b4" width=30 height=30></img><br></br>
 
-### Coding (only the ones I'm advanced at):
+### <b>Rating system:</b><br>
+* #### Advanced/Fluent = <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img><br>
+* #### Intermediate = <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img><br>
+* #### Beginner = <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img><br></br>
+
+<img src="https://github.com/R00tendo/R00tendo/assets/72181445/3f257c11-ac68-40c7-86a7-63cc183489e4" width=700></img><br>
+(Only the ones I'm fluent at)
 * <b><img src="https://github.com/R00tendo/R00tendo/assets/72181445/33c44c89-10e6-4e29-b06d-4346ec5654d0" width=20 height=20></img>  Python:</b><br>
 <b>Python was my second programming language and I have actively used it from 2018 to this day.</b><br></br>
 * <b><img src="https://github.com/R00tendo/R00tendo/assets/72181445/23a2935b-56fc-485d-821d-d5b537ce821a" width=50 height=20></img>  Golang:</b><br>
 <b>Golang is the latest language I have learned and I have very actively used it from the beginning of 2023 to now.
 </b><br></br><br>
 
-### <b>Cyber Security:</b>
-
-<b>Penetration Testing:</b>
-* Web Apps <img src="https://github.com/R00tendo/R00tendo/assets/72181445/8017341b-105d-44a9-ada3-291e017a48da" width=45 height=45></img>
-* Mobile <img src="https://github.com/R00tendo/R00tendo/assets/72181445/8017341b-105d-44a9-ada3-291e017a48da" width=45 height=45></img>
-* Network <img src="https://github.com/R00tendo/R00tendo/assets/72181445/680532bb-beab-41f9-8aac-3aef7beb0c3c" width=25 height=25></img> or <img src="https://github.com/R00tendo/R00tendo/assets/72181445/8017341b-105d-44a9-ada3-291e017a48da" width=40 height=40></img>
-* WIFI <img src="https://github.com/R00tendo/R00tendo/assets/72181445/680532bb-beab-41f9-8aac-3aef7beb0c3c" width=30 height=30></img>
-* Active Directory <img src="https://github.com/R00tendo/R00tendo/assets/72181445/680532bb-beab-41f9-8aac-3aef7beb0c3c" width=30 height=30></img>
+<img src="https://github.com/R00tendo/R00tendo/assets/72181445/181d4755-46fc-425a-b922-d889d8a5f084" width=700></img>
+* Web Apps: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img>
+* Mobile: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img>
+* Network: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img> or <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img>
+* WIFI: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img>
+* Active Directory: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img>
 <br>
 
-<b>Other:</b>
-* OSINT <img src="https://github.com/R00tendo/R00tendo/assets/72181445/8017341b-105d-44a9-ada3-291e017a48da" width=45 height=45></img>
-* Digital Forensics <img src="https://github.com/R00tendo/R00tendo/assets/72181445/664d37c9-0208-4925-ae1e-f28cfc0e27b4" width=30 height=30></img>
-* Reverse engineering (PE/ELF) <img src="https://github.com/R00tendo/R00tendo/assets/72181445/664d37c9-0208-4925-ae1e-f28cfc0e27b4" width=30 height=30></img>
-</br><br>
+<b>Other cyber security related:</b>
+* OSINT: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img>
+* Digital Forensics: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img>
+* Reverse engineering (PE/ELF): <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img>
+</br><br></b><br></br><br>
 
-### <b>General Tech:</b>
+<img src="https://github.com/R00tendo/R00tendo/assets/72181445/002e7e87-a524-49e4-896d-9632879df35f" width=700></img></b><br>
 <b>Operating Systems (system administration and usage):
-* Linux <img src="https://github.com/R00tendo/R00tendo/assets/72181445/8017341b-105d-44a9-ada3-291e017a48da" width=45 height=45></img>
-* Windows <img src="https://github.com/R00tendo/R00tendo/assets/72181445/680532bb-beab-41f9-8aac-3aef7beb0c3c" width=30 height=30></img>
+* Linux: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img>
+* Windows: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img>
+* Virtualization software:
+  * Proxmox: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img>
+  * ESXI/VCenter/VSphere: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img>
+  * Docker: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img>
 <br>
 
 <b>Databases:</b>
-* SQL <img src="https://github.com/R00tendo/R00tendo/assets/72181445/680532bb-beab-41f9-8aac-3aef7beb0c3c" width=30 height=30></img>
-* NOSQL <img src="https://github.com/R00tendo/R00tendo/assets/72181445/664d37c9-0208-4925-ae1e-f28cfc0e27b4" width=30 height=30></img>
+* SQL: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img>
+* NOSQL: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img>
 <br>
 
-<b>Front and backend website:</b>
-* HTML <img src="https://github.com/R00tendo/R00tendo/assets/72181445/680532bb-beab-41f9-8aac-3aef7beb0c3c" width=30 height=30></img>
-* JS <img src="https://github.com/R00tendo/R00tendo/assets/72181445/680532bb-beab-41f9-8aac-3aef7beb0c3c" width=30 height=30></img>
-* CSS <img src="https://github.com/R00tendo/R00tendo/assets/72181445/664d37c9-0208-4925-ae1e-f28cfc0e27b4" width=30 height=30></img>
-* PHP <img src="https://github.com/R00tendo/R00tendo/assets/72181445/664d37c9-0208-4925-ae1e-f28cfc0e27b4" width=30 height=30></img>
+<b>Front and backend web:</b>
+* HTML: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img>
+* Javascript (NodeJS): <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img>
+  * ExpressJS: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img>
+  
+* CSS: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img>
+* PHP: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img>
 
 ## Links/Contact 🌐
 <b>Medium:<a href="https://medium.com/@R00tendo">R00tendo</a></b>
