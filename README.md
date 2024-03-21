@@ -1,7 +1,7 @@
 <img src="https://github.com/R00tendo/R00tendo/blob/main/r00tendo_banner.gif?raw=true" width=1200></img>
 
 ## <b>Hello! I'm a cyber security enthusiast and software developer from Finland.</b>
-<b>I know things from almost every area of tech, but my main focus is on red teaming, specifically web penetration testing and mobile penetration testing.</b>
+<b>I know things from almost every area of tech, but my main focus is on offensive cyber security, specifically web penetration testing and mobile penetration testing.</b>
 
 ![image](https://github.com/R00tendo/R00tendo/assets/72181445/065fd3d3-aed3-4948-a8b9-a0fb8c2e3bfc)
 ![image](https://github.com/R00tendo/R00tendo/assets/72181445/76a18c55-4d79-4d3c-adac-4ad9f9c0baf8)
