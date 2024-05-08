@@ -12,6 +12,11 @@
 
 ## Experience
 
+### Timeline of my learning. (of course not perfect, since I don't have elephant's memory)</b>
+### Shorter box = shorter time
+
+![timeline](https://github.com/R00tendo/R00tendo/assets/72181445/352f9283-da82-42e2-b3ea-b50ed61361aa)
+
 ### <b>Rating system:</b><br>
 * #### Can use normal functionalities perfectly = ✅
 * #### Advanced/Fluent = <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img><br>
