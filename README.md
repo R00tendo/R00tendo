@@ -22,9 +22,10 @@ Python was the second language I learnt and I have actively used it from <b>2018
 Go is nowadays my go to language and I have actively used it from the <b>beginning of 2023 to now.</b><br>
 * ### <b><img src="https://github.com/user-attachments/assets/b7f6b9b6-3748-4213-a07a-c5978a062f5a" width=20 height=20></img>  Javascript:</b><br>
 I have used JS here and there for the longest time, but only got around to properly learning it <b>around 2023-24</b>. I mainly use JS with React and Express.js.
+* ### <b><img src="https://github.com/user-attachments/assets/177a9868-ad23-4722-8988-baf1656e9f1d" width=20 height=23></img>  C#:</b><br>
+I have used C# a few times before, but I only became somewhat fluent at it around 2024-25, when I learnt to make desktop apps with MAUI,WPF and Avalonia and web apps with asp.net.
 
 ## Not fluent, but can work with
-* ### C# (2024)
 * ### Java (2024)
 * ### PHP (2024)
   
@@ -52,23 +53,24 @@ I have used JS here and there for the longest time, but only got around to prope
 
 <b>Desktop apps:</b>
 * Wails (desktop apps using webview): <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img><br>
-* WinUI: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img><br>
+* WPF,MAUI,Avalonia: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img><br>
 
 <b>Front and backend web:</b>
 * Golang:<br>
   * Fiber: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img><br>
+  * Gin: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img><br>
 * Javascript:<br>
   * ### React: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/10b3b487-ab6a-4a87-822a-7079dc1c7b06" width=40 height=30></img><br>
   * ### ExpressJS: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img><br>
-  * ### Next.JS: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img><br>
+  * ### Next.JS: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img><br>
 * ### HTML: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img><br>
 * ### CSS: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30><br>
 * SASS: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30><br>
 * NGINX: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30><br>
 * Apache web server: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img><br>
+* ### ASP.NET:  <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img><br>
 * ### Laravel: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/653c4f15-bd27-4972-89aa-1809aacfb409" width=40 height=30></img><br>
 * ### Spring framework: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img><br>
-* ### ASP.NET: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img><br>
 * ### Blazor: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img><br>
 * ### Django: <img src="https://github.com/R00tendo/R00tendo/assets/72181445/b0721a8a-05f1-490d-875b-380c747fb6ec" width=45 height=30></img><br>
 
