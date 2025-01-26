@@ -1,7 +1,7 @@
 <img src="https://github.com/R00tendo/R00tendo/blob/main/r00tendo_banner.gif?raw=true" width=700></img>
 
 ## <b>Hello! I'm a cyber security enthusiast and software developer from Finland.</b>
-<b>I know a thing or two from almost every area of tech, but my main focus is on offensive cyber security, specifically web penetration testing and mobile penetration testing and software development with Golang.</b>
+<b>I know a thing or two from almost every area of tech, but my main focus is on offensive cyber security and software development with Go and C#</b>
 
 <br></br>
 ## My skills:
